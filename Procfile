@@ -1,1 +1,1 @@
-PYTHON chatgui.py
+web: gunicorn app:app
